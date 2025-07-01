@@ -1,0 +1,16 @@
+Date,Product,Sales,Region
+2024-01-05,Product A,1500,North
+2024-01-12,Product B,2200,South
+2024-01-20,Product C,1800,East
+2024-02-02,Product A,2100,North
+2024-02-14,Product B,1300,West
+2024-02-18,Product C,1950,South
+2024-03-01,Product A,2400,East
+2024-03-15,Product B,1750,North
+2024-03-25,Product C,2000,West
+2024-04-03,Product A,2600,South
+2024-04-12,Product B,1900,East
+2024-04-28,Product C,1850,North
+2024-05-06,Product A,2700,West
+2024-05-18,Product B,2100,South
+2024-05-29,Product C,2300,East
